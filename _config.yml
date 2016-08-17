@@ -1,0 +1,28 @@
+name: Testando
+favicon: null
+layout_spectrum: 0.9112812096718699
+typography_spectrum: 0.32800621446222067
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.14353580679744482
+  lightness: 0.8310386356897652
+  saturation: 0.4052596769761294
+  rhythmicContrast: 0.03359271655790508
+purpose: []
